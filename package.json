@@ -1,0 +1,31 @@
+{
+  "name": "alexa-twitter-skill",
+  "version": "1.0.0",
+  "description": "an app to get Woj bombs from Alexa",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.24",
+    "dotenv": "^4.0.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Woj Bomb",
+    "Woj",
+    "Twitter",
+    "Alexa"
+  ],
+  "author": "Dominic Muzzin",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
