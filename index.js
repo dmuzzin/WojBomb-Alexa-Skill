@@ -4,12 +4,12 @@ var Alexa = require('alexa-sdk');
 var Twitter = require('twitter');
 
 var client = new Twitter({
-  consumer_key: "qGe5SRlOg9I8K99DLsrmqpeYB",
-  consumer_secret: "FFBI2lGppqyX1j1Uv4eD1UajFcCWOHskAdDFzjQ0iAj9XNYYz5",
-  bearer_token: "AAAAAAAAAAAAAAAAAAAAAPI93wAAAAAAVpXlvMfTJOXxDI%2FU197JOv91Q4A%3DHsiQTqhdAvXfJc1R7t91F5JiOUPePh61aWMLFPYhKOKuuGVFYY"
+  consumer_key: "xxxxxxxxxxxxxx",
+  consumer_secret: "xxxxxxxxxxxxxx",
+  bearer_token: "xxxxxxxxxxxxxx"
 });
 
-var APP_ID = 'amzn1.ask.skill.88891f99-0993-436d-8b71-30e0282dba73'; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = 'xxxxxxxxxxxxxx'; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = 'Woj\'s Tweets';
 
 
